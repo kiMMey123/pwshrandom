@@ -1,0 +1,1522 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.Collections.Hashtable</T>
+      <T>System.Object</T>
+    </TN>
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">☀️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">clearsky</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="1">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Clear sky</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Klarvær</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Klårvêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="2">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">☁️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">cloudy</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="3">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Cloudy</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Skyet</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Skya</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="4">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF24_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">fair</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="5">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Fair</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lettskyet</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lettskya</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="6">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF2B_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">fog</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="7">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Fog</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Tåke</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Skodde</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="8">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83C__xDF27_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavyrain</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="9">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy rain</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftig regn</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftig regn</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="10">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕⛈️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavyrainandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="11">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy rain and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftig regn og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftig regn og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="12">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83C__xDF26_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavyrainshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="13">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy rain showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftige regnbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftige regnbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="14">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83C__xDF26_️⚡</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavyrainshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="15">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy rain showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftige regnbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftige regnbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="16">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysleet</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="17">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy sleet</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftig sludd</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftig sludd</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="18">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕⚡_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysleetandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="19">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy sleet and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftig sludd og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftig sludd og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="20">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysleetshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="21">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy sleet showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftige sluddbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftige sluddbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="22">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕⚡_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysleetshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="23">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy sleet showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftige sluddbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftige sluddbyer og torevêr </S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="24">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysnow</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="25">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy snow</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftig snø</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftig snø</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="26">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕⚡_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysnowandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="27">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy snow and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftig snø og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftig snø og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="28">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕_xD83C__xDF25_️_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysnowshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="29">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy snow showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftige snøbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftige snøbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="30">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➕⚡_xD83C__xDF25_️_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">heavysnowshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="31">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Heavy snow showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Kraftige snøbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Kraftige snøbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="32">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖_xD83C__xDF27_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightrain</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="33">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light rain</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lett regn</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lett regn</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="34">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖⛈️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightrainandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="35">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light rain and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lett regn og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lett regn og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="36">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖_xD83C__xDF26_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightrainshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="37">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light rain showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lette regnbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lette regnbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="38">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖⚡_xD83C__xDF26_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightrainshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="39">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light rain showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lette regnbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lette regnbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="40">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightsleet</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="41">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light sleet</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lett sludd</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lett sludd</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="42">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖⚡_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightsleetandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="43">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light sleet and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lett sludd og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lett sludd og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="44">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightsleetshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="45">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light sleet showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lette sluddbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lette sluddbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="46">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightsnow</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="47">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light snow</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lett snø</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lett snø</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="48">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖⚡_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightsnowandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="49">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light snow and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lett snø og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lett snø og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="50">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖_xD83C__xDF25_️_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightsnowshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="51">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light snow showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lette snøbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lette snøbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="52">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖⚡_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightssleetshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="53">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value"></S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value"></S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value"></S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="54">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">➖⚡_xD83C__xDF25_️_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">lightssnowshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="55">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Light snow showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Lette snøbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Lette snøbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">4</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="56">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF25_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">partlycloudy</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="57">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Partly cloudy</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Delvis skyet</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Delvis skya</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="58">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF27_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">rain</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="59">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Rain</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Regn</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Regn</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="60">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">⛈️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">rainandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="61">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Rain and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Regn og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Regn og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="62">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF26_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">rainshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="63">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Rain showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Regnbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Regnbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="64">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">⚡_xD83C__xDF26_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">rainshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="65">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Rain showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Regnbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Regnbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="66">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">sleet</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="67">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Sleet</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Sludd</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Sludd</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="68">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">⚡_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">sleetandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="69">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Sleet and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Sludd og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Sludd og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="70">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">sleetshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="71">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Sleet showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Sluddbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Sluddbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="72">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">⚡_xD83D__xDCA7__xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">sleetshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="73">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Sleet showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Sluddbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Sluddbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="74">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">snow</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="75">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Snow</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Snø</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Snø</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">1</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="76">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">⚡_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">snowandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="77">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Snow and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Snø og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Snø og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="78">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">_xD83C__xDF25_️_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">snowshowers</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="79">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Snow showers</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Snøbyger</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Snøbyer</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">2</I32>
+      </En>
+    </DCT>
+  </Obj>
+  <Obj RefId="80">
+    <TNRef RefId="0" />
+    <DCT>
+      <En>
+        <S N="Key">Icon</S>
+        <S N="Value">⚡_xD83C__xDF25_️_xD83C__xDF28_️</S>
+      </En>
+      <En>
+        <S N="Key">Name</S>
+        <S N="Value">snowshowersandthunder</S>
+      </En>
+      <En>
+        <S N="Key">Text</S>
+        <Obj N="Value" RefId="81">
+          <TNRef RefId="0" />
+          <DCT>
+            <En>
+              <S N="Key">English</S>
+              <S N="Value">Snow showers and thunder</S>
+            </En>
+            <En>
+              <S N="Key">Bokmål</S>
+              <S N="Value">Snøbyger og torden</S>
+            </En>
+            <En>
+              <S N="Key">Nynorsk</S>
+              <S N="Value">Snøbyer og torevêr</S>
+            </En>
+          </DCT>
+        </Obj>
+      </En>
+      <En>
+        <S N="Key">IconCount</S>
+        <I32 N="Value">3</I32>
+      </En>
+    </DCT>
+  </Obj>
+</Objs>
